@@ -1,0 +1,25 @@
+-- TASK
+
+1. Design
+    - Chia layout:
+        Layout chính:
+            + Layout 2 mặt: RESUME, CONTACT -> ok
+            + Layout 1 mặt: PORTFOLIO -> ok
+        
+        Layout close book
+            + Mặt back RESUME -> ok
+            + Mặt back CONTACT -> ok
+
+    - Build
+        - Back RESUME -> ok
+        - Back CONTACT
+
+        - FRONT RESUME  -> ok
+        - FRONT PRODUCT
+        - FRONT CONTACT -> ok
+
+2. Xử lý javascript
+    1. Open book -> ok
+    2. Close book -> ok
+    3. Srollbar -> ok
+
